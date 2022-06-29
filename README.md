@@ -8,4 +8,4 @@ In this project I've learned how to work with:
 4) How to use modules
 and more a lot of other things...
 Mainly, I've become better at thinking programmatically.
-I think this project have upgradet me so much, but I wont stop!
+I think this project have pumped me up so much, but I wont stop!
